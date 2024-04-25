@@ -18,7 +18,7 @@ Follow the instructions below to set up the environment and run the tests.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pytest-automation-scripts.git
+   git clone https://github.com/RanjithPoojary/pytest-Automation.git
    ```
 
 2. Navigate to the project directory:
